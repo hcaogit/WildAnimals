@@ -48,8 +48,8 @@ mountain_lion, 22
 
 ## Solution Statement
 
-Question for reviewers:
-Are we looking for a descripton of the model? Or a description of labeling results here?
+
+The minimum requirement of the model output is to have a better than random recognition rate. A better than 50% rate would be more desirable.
 
 ## Benchmark Model
 
